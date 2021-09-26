@@ -75,7 +75,3 @@ if __name__ == "__main__":
     print("\nSolving Sudoku\n")
     solve_sudoku(grid)
     print_board(grid)
-
-
-
-
